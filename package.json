@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/aneslin/zookeeper/issues"
   },
-  "homepage": "https://github.com/aneslin/zookeeper#readme"
+  "homepage": "https://github.com/aneslin/zookeeper#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
